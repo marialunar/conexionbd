@@ -16,3 +16,4 @@ Ejemplo:
 tiempo transcurrido:00:30:01}
 1,01-01-2021 02:01, spc001d, error, {“err”: “no se pudo crear
 tabla”}
+x
