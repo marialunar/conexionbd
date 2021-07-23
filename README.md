@@ -17,7 +17,7 @@ tiempo transcurrido:00:30:01}
 1,01-01-2021 02:01, spc001d, error, {“err”: “no se pudo crear
 tabla”}
 
-
+*  Proyecto se ejecuta con Manejador de BD MySql
 * Archivo  config. php se encuentra la  Configuracion para la conexion al Servidor Mysql.
 * Archivo index.php es el programa de conexion de las Bases de Datos, conexion, creacion de tablas  la
 creacion de la Base de Datos de respaldo y su transferencia.
