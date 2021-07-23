@@ -17,7 +17,8 @@ tiempo transcurrido:00:30:01}
 1,01-01-2021 02:01, spc001d, error, {“err”: “no se pudo crear
 tabla”}
 
-* Proyecto se ejecuta en la shell de php, iniciar con php.index.php
+* Proyecto se ejecuta en la shell de php, iniciar con php index.php
 * Archivo config.php se encuentra la configuracion para la conexion al Servidor MySql.
 * Archivo index.php, programa con la conexion y creacion de las BD, creacion de tablas y sus respectivas transferencias.
-Contact: marialunar@gmail.com
+
+* Contact: marialunar@gmail.com
